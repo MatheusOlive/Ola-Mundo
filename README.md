@@ -3,4 +3,4 @@
 
 Repostório da criado na aula.
 
-Adicioneii diretamente no GitHub
+Adicionei remotamente pleo site
