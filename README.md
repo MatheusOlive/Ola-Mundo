@@ -2,3 +2,5 @@
  Primeiro repositório de curso de Git e GitHub
 
 Repostório da criado na aula.
+
+Adicioneii diretamente no GitHub
